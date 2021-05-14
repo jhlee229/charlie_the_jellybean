@@ -22,8 +22,8 @@ title: Charlie the Jellybean (젤리빈 찰리)
 email: jhlee0229@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   찰리를 만나기까지의 여정
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/charliej.github.io" # the subpath of your site, e.g. /blog
+url: "https://jhlee229.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jhlee229
 
@@ -40,7 +40,7 @@ plugins:
   - jekyll-include-cache
   
 author:
-  name   : "First Lastname"
+  name   : "Junghyun Suh"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
