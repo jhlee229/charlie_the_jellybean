@@ -26,6 +26,9 @@ baseurl: "/charlie_the_jellybean" # the subpath of your site, e.g. /blog
 url: "https://jhlee229.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jhlee229
+repository: "jhlee229/charlie_the_jellybean"
+github: [metadata]
+
 include: ["_pages"]
 
 # Build settings
@@ -65,7 +68,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
