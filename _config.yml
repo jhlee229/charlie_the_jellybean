@@ -40,7 +40,7 @@ plugins:
   - jekyll-include-cache
   
 author:
-  name   : "Junghyun&Chris"
+  name   : "Chris&Junghyun"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "찰리를 기다리며 쓰는 블로그"
   links:
