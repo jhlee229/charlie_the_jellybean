@@ -45,7 +45,7 @@ caloptions = {
 		position: "top"
 	},
     onClick: function(date, nb) {
-		let link = datelinks[date.toISOString().split('T')[0]];
+		let link = "{{ site.baseurl }}" + '/' + datelinks[date.toISOString().split('T')[0]];
         location.href = link;
     }
 };
